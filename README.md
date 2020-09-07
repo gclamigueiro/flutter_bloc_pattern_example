@@ -3,7 +3,7 @@
 Code examples and explanations taken from <https://bloclibrary.dev/#/gettingstarted> to understand de functionality of bloc pattern and the difference between using bloc or cubic.
 
 <p align="center">
-<img src="assets/readme/screen-shots.PNG" title="Screen Shots">
+<img src="assets/readme/screen-shots.png" title="Screen Shots">
 </p>
 
 The examples are:
